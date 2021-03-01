@@ -11,3 +11,11 @@ A cada exercício o usuário recebe experiência conforme um RPG e  possui levei
 ✅ Typescript  
 ✅ Js-cookies  
 ✅ Browser notification  
+
+## Screenshot
+
+![Screenshot 1](https://github.com/weslenmartins/estudo-nextjs-nlw4/blob/main/public/prints/print-01.jpg?raw=true)
+
+![Screenshot 2](https://github.com/weslenmartins/estudo-nextjs-nlw4/blob/main/public/prints/print-02.jpg?raw=true)
+
+![Screenshot 3](https://github.com/weslenmartins/estudo-nextjs-nlw4/blob/main/public/prints/print-03.jpg?raw=true)
